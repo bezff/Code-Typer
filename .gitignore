@@ -1,0 +1,29 @@
+# байткод и кэш
+__pycache__/
+*.py[cod]
+*$py.class
+
+# сборка
+build/
+dist/
+*.egg-info/
+
+# виртуальное окружение
+venv/
+.venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# PyInstaller
+*.manifest
+*.spec.bak
+
+# системные
+Thumbs.db
+.DS_Store
